@@ -1,0 +1,6 @@
+testing file ....
+git add test1
+git commit test1 -m "days1"
+git push -u origin master
+ls
+git status
